@@ -4,4 +4,4 @@ Source code for this video series: https://www.youtube.com/playlist?list=PLbbu5m
 
 Please check out the video series for more details!
 
-Thanks to pcbway.com for sponsoring the videos! 
+Thanks to [pcbway.com](https://www.pcbway.com/) for sponsoring the videos! 
